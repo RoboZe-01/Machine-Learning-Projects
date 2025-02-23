@@ -39,7 +39,7 @@ The **Diabetes Prediction** project is a machine learning model that predicts wh
 ## 💻 How to Use the Model
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/diabetes-prediction.git
+   git clone [https://github.com/yourusername/diabetes-prediction.git](https://github.com/RoboZe-01/Machine-Learning-Projects/tree/81009b5c668fa90cc17009fec8af8519c6da4969/Diabetes%20Prediction%20ML%20Project)
    cd diabetes-prediction
    ```
 2. **Install Dependencies:**
