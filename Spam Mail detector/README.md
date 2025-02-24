@@ -76,6 +76,11 @@ python mail_detector.py
 
 ### 💡 Got Ideas or Suggestions?
 Open an **Issue** or **Pull Request** to contribute! 🚀  
-Let's connect on **[LinkedIn](https://linkedin.com/in/yourprofile)** if you love ML projects! 🤝
+
+🤝 Connect with Me!
+
+📌 GitHub: RoboZe📌 LinkedIn: Prem Kamble
+
+📢 If you found this project useful, give it a ⭐ on GitHub and share your feedback!
 
 #MachineLearning #SpamDetection #TextProcessing #AI #Python
