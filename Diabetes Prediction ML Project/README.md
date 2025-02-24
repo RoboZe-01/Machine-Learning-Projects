@@ -62,8 +62,7 @@ The **Diabetes Prediction** project is a machine learning model that predicts wh
 ## 🤝 Contributing
 Want to improve this project? **Fork the repo and submit a pull request!**
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
+
 
 ---
 Made with ❤️ by RoboZe aka Prem
