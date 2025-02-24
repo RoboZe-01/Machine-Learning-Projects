@@ -12,7 +12,6 @@ We used an open-source **email dataset from Kaggle**, containing labeled mail te
 - Text content of emails
 - Labels indicating whether the email is **spam (1)** or **ham (0)**
 
-🔗 **Dataset Link:** [Add Kaggle Dataset Link Here]
 
 ## 🔥 Workflow
 
