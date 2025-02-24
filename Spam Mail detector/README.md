@@ -77,9 +77,16 @@ python mail_detector.py
 ### 💡 Got Ideas or Suggestions?
 Open an **Issue** or **Pull Request** to contribute! 🚀  
 
-🤝 Connect with Me!
+## 🤝 Connect with Me!
+📌 **GitHub**: [RoboZe](https://github.com/RoboZe-01)  
+📌 **LinkedIn**: [Prem Kamble](https://www.linkedin.com/in/prem-kamble-585608300)
 
-📌 GitHub: RoboZe📌 LinkedIn: Prem Kamble
+📢 If you found this project useful, give it a ⭐ on GitHub and share your feedback!
+
+---
+Made with ❤️ by **RoboZe aka Prem** 🚀
+
+
 
 📢 If you found this project useful, give it a ⭐ on GitHub and share your feedback!
 
