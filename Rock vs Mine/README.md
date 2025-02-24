@@ -67,9 +67,6 @@ The **Classic Rock vs Mine** project is a machine learning classification model 
 ## 🤝 Contributing
 If you’d like to improve this project, feel free to fork the repo and submit pull requests!
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
-
 ---
 Made with ❤️ by [RoboZe AKA Prem]
 
