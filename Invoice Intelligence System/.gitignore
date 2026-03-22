@@ -1,2 +1,0 @@
-echo "D:\Robotics\Machine Learning Projects\Invoice Intelligence System\data" >> .gitignore
-*.db
