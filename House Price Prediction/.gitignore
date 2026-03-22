@@ -1,1 +1,1 @@
-D:\Robotics\Machine Learning Projects\House Price Prediction\data\housing.csv
+echo "D:\Robotics\Machine Learning Projects\House Price Prediction\data\housing.csv" >> .gitignore
