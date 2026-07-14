@@ -1,0 +1,201 @@
+# ============================================
+# PYTHON SPECIFIC
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ============================================
+# VIRTUAL ENVIRONMENT - CRITICAL FOR GIT
+# ============================================
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+.env/
+virtualenv/
+.venv*/
+*venv*/
+Python/*
+pythonenv*/
+
+# ============================================
+# JUPYTER NOTEBOOKS
+# ============================================
+.ipynb_checkpoints
+*.ipynb_checkpoints*
+.jupyter/
+jupyter-notebook-data/
+
+# ============================================
+# ML MODELS & LARGE FILES - VERY IMPORTANT
+# ============================================
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.hdf
+*.pth
+*.pt
+*.keras
+*.caffemodel
+*.pb
+*.onnx
+*.mlmodel
+*.npy
+*.npz
+models/
+trained_models/
+saved_models/
+checkpoints/
+*.ckpt
+
+# ============================================
+# DATA FILES - PREVENT LARGE DATA IN GIT
+# ============================================
+data/raw/*
+data/processed/*
+data/external/*
+data/interim/*
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.feather
+*.db
+*.sqlite
+*.sqlite3
+!sample_data.csv
+!example*.csv
+!test*.csv
+
+# ============================================
+# ENVIRONMENT & CONFIGURATION
+# ============================================
+.env
+.env.local
+.env.*.local
+config.local.py
+config.local.yaml
+secrets.yaml
+credentials.json
+*.key
+*.pem
+*.crt
+
+# ============================================
+# IDE & EDITOR FILES
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+*.komodoproject
+
+# ============================================
+# LOGS & OUTPUT
+# ============================================
+logs/
+*.log
+output/
+outputs/
+results/
+*.out
+nohup.out
+debug.log
+error.log
+
+# ============================================
+# TESTING & COVERAGE
+# ============================================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# ============================================
+# TYPE CHECKING
+# ============================================
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+
+# ============================================
+# PACKAGE MANAGERS
+# ============================================
+Pipfile.lock
+poetry.lock
+*.tar.gz
+*.whl
+*.egg
+.pip-cache/
+pip-wheel-metadata/
+
+# ============================================
+# DOCKER (if using)
+# ============================================
+docker-compose.override.yml
+
+# ============================================
+# SPHINX DOCUMENTATION
+# ============================================
+docs/_build/
+site/
+
+# ============================================
+# CUSTOM PROJECT SPECIFIC
+# ============================================
+# Wind turbine data
+wind_turbine_data/
+sensor_data/
+historical_data/
+*.dat
+*.bin
+
+# Model artifacts
+artifacts/
+mlruns/
+wandb/
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.temp
+~$*.xlsx
+~$*.xls
+~$*.docx
+~$*.pptx
