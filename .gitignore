@@ -30,6 +30,7 @@ virtualenv/
 *venv*/
 Python/*
 pythonenv*/
+movie_env/
 
 # ============================================
 # JUPYTER NOTEBOOKS
